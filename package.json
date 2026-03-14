@@ -1,0 +1,34 @@
+{
+  "name": "កម្មវិធីពិនិត្យអក្ខរាវិរុទ្ធ",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@google/genai": "^1.34.0",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.577.0",
+    "motion": "^12.36.0",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "tailwind-merge": "^3.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@typescript-eslint/eslint-plugin": "^8.57.0",
+    "@typescript-eslint/parser": "^8.57.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "eslint": "^9.39.4",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "eslint-plugin-react-refresh": "^0.5.2",
+    "globals": "^17.4.0",
+    "typescript": "~5.8.2",
+    "typescript-eslint": "^8.57.0",
+    "vite": "^6.2.0"
+  }
+}
